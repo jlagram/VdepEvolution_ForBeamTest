@@ -1,0 +1,22 @@
+#define StepInHours 1
+# index fluence temperature LVOn
+# Starting irradiation
+0 0 4 0
+1 2e12 4 0
+1 0 25 0
+2 6e12 4 0
+1 0 25 0
+1 0 15 0
+1 0 15 0
+1 1e12 -15 0
+1 0 -15 0
+1 12e12 -15 0
+1 0 4 0
+1 15e12 -15 0
+1 0 20 0
+1 20e12 -20 0
+1 0 20 0
+1 0 4 0
+1 0 4 0
+1 0 4 0
+1 0 4 0
